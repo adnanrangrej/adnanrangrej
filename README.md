@@ -108,16 +108,13 @@ I'm always open to connecting with fellow developers, students, and tech enthusi
 
 ---
 
-## 📊 My GitHub Activity & Stats
-
+## 🌟 Fun Fact
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnanrangrej&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Adnan's GitHub Stats"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=adnanrangrej&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote"/>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ <i>"Keep building. Keep learning. Stay curious."</i> ⭐
+  <b>✨ "Code is poetry—write it with passion, debug it with patience."</b>
 </p>
