@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>👋 Hey there, I'm Adnan Rangrej</h1>
+  <h1>👋 Hey there, I'm Adnan</h1>
 
   <p>
     🚀 Final Year BCA Student | 💻 Android Developer (Kotlin & Compose) | 🤖 AI Enthusiast | 🌱 Lifelong Learner
