@@ -60,15 +60,15 @@ Here's a glimpse of the technologies and tools I work with:
 
 Here are a few projects I've worked on:
 
-### [🚫 Focus Modes App](https://github.com/adnanrangrej/Focus-Modes-App)
-* Boost productivity by blocking distractions.
-* **Features:** ⏳ Pomodoro Timer, 📱 Distraction Detection, 🔒 App Blocking, 🌟 Focus Modes.
-* **Tech:** Kotlin, Jetpack Compose, Android Services.
-
 ### [🌿 NatureGuardian](https://github.com/adnanrangrej/nature-guardian)
 * An app dedicated to protecting India's endangered species.
 * **Features:** 🤖 AI Chatbot (RET info), 📰 Real-time alerts & news, 🗺️ Habitat Maps, 🐾 Offline Species Info.
 * **Tech:** Kotlin, AI Integration (Chatbot), Firebase, Maps API.
+
+### [🚫 Focus Modes App](https://github.com/adnanrangrej/Focus-Modes-App)
+* Boost productivity by blocking distractions.
+* **Features:** ⏳ Pomodoro Timer, 📱 Distraction Detection, 🔒 App Blocking, 🌟 Focus Modes.
+* **Tech:** Kotlin, Jetpack Compose, Android Services.
 
 ### [📝 TodoNow](https://github.com/adnanrangrej/todo-now)
 * A sleek, minimal to-do list application.
