@@ -98,7 +98,7 @@
     <td width="60%">
       <h3>📝 TodoNow</h3>
       <p>A sleek, offline-first to-do application built with modern Android practices, including Coroutines & Flow for asynchronous operations.</p>
-      <a href="https://github.com/adnanrangrej/TodoNow"><strong>View on GitHub →</strong></a>
+      <a href="https://github.com/adnanrangrej/todo-now"><strong>View on GitHub →</strong></a>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
